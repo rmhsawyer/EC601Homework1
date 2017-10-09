@@ -1,6 +1,6 @@
 # EC601Homework2
 
-## Part 1 FoodTracker
+# Part 1 FoodTracker
 
 Start Developing iOS Apps (Swift) is the perfect starting point for learning to create apps that run on iPhone and iPad. View this set of incremental lessons as a guided introduction to building your first app—including the tools, major concepts, and best practices that will ease your path.
 
