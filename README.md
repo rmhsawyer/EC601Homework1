@@ -88,7 +88,7 @@ We'd love that you contribute to the project. Before doing so please read our [C
 
 © Google, 2011. Licensed under an [Apache-2](../LICENSE) license.
 
-#Part3 Storage
+
 
 Cloud Storage for Firebase Quickstart
 =============================
