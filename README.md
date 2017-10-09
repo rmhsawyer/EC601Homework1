@@ -16,4 +16,4 @@ sawyermh@bu.edu
 
 ## How to use?
 
-Please download the whole 
+Please download the whole the FoodTracker Directory and run FoodTracker.xcodeproj in your Xcode application. You can use your simulator to test this app.
