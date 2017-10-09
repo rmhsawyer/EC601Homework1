@@ -2,11 +2,12 @@
 //  AppDelegate.swift
 //  FoodTracker
 //
-//  Created by Jane Appleseed on 10/17/16.
-//  Copyright © 2016 Apple Inc. All rights reserved.
+//  Created by 任明赫 on 10/9/17.
+//  Copyright © 2017 Apple Inc. All rights reserved.
 //
 
 import UIKit
+
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -44,4 +45,3 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 }
 
-AppDelegate.swift

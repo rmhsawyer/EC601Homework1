@@ -5,7 +5,6 @@
 //  Created by 任明赫 on 10/8/17.
 //  Copyright © 2017 Apple Inc. All rights reserved.
 //
-
 import UIKit
 
 class MealTableViewCell: UITableViewCell {
