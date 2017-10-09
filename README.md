@@ -1,4 +1,4 @@
-# EC601Homework1
+# EC601Homework2
 
 ## Part 1 FoodTracker
 
