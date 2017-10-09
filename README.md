@@ -91,7 +91,7 @@ We'd love that you contribute to the project. Before doing so please read our [C
 
 
 
-Cloud Storage for Firebase Quickstart
+Part3 Cloud Storage for Firebase Quickstart
 =============================
 
 The Cloud Storage for Firebase iOS quickstart demonstrates how to upload data to a Cloud Storage bucket, and retrieve a download URL.
@@ -134,3 +134,19 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+
+# Part4 Firebase Codelab: FriendlyChat
+
+This is the source code for the Firebase FriendlyChat codelab. It includes start and end versions of the
+code for Web and Cloud Functions. To get started open the codelab instructions:
+
+ - [Firebase Web Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/).
+ - [Firebase SDK for Cloud Functions Codelab](https://codelabs.developers.google.com/codelabs/firebase-cloud-functions/).
+
+
+## How to make contributions?
+Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)
+
+
+## License
+See [LICENSE](LICENSE)
