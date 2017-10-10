@@ -1,0 +1,36 @@
+[debug] [2017-10-09T04:58:49.854Z] ----------------------------------------------------------------------
+[debug] [2017-10-09T04:58:49.862Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\simin\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase serve
+[debug] [2017-10-09T04:58:49.862Z] CLI Version:   3.13.1
+[debug] [2017-10-09T04:58:49.862Z] Platform:      win32
+[debug] [2017-10-09T04:58:49.862Z] Node Version:  v6.11.4
+[debug] [2017-10-09T04:58:49.864Z] Time:          Mon Oct 09 2017 00:58:49 GMT-0400 (东部夏令时)
+[debug] [2017-10-09T04:58:49.864Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-10-09T04:58:49.901Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-10-09T04:58:49.902Z] > authorizing via signed-in user
+[debug] [2017-10-09T04:58:49.912Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2017-10-09T04:58:49.912Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token { refresh_token: '1/dOwnSdq4Vvn3rq-GE8VFfaYR20NX98CztEz6ctnVMC8',
+  client_id: '563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com',
+  client_secret: 'j9iVZfS8kkCEFUPaAeJV0sAi',
+  grant_type: 'refresh_token',
+  scope: 'email https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid' } 
+ Mon Oct 09 2017 00:58:49 GMT-0400 (东部夏令时)
+[debug] [2017-10-09T04:58:50.162Z] <<< HTTP RESPONSE 200
+[debug] [2017-10-09T04:58:50.180Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/friendlychat-c5736  
+ Mon Oct 09 2017 00:58:50 GMT-0400 (东部夏令时)
+[debug] [2017-10-09T04:58:50.656Z] <<< HTTP RESPONSE 200
+[debug] [2017-10-09T04:58:50.661Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/friendlychat-c5736/tokens  
+ Mon Oct 09 2017 00:58:50 GMT-0400 (东部夏令时)
+[debug] [2017-10-09T04:58:51.202Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from 'C:\Users\simin\Documents\GitHub\friendlychat-web\web-start'...
+[info] 
+[debug] [2017-10-09T04:58:51.222Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/friendlychat-c5736  
+ Mon Oct 09 2017 00:58:51 GMT-0400 (东部夏令时)
+[debug] [2017-10-09T04:58:51.588Z] <<< HTTP RESPONSE 200
+[debug] [2017-10-09T04:58:51.589Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/1012762950470/clients/_:getWebAppConfig  
+ Mon Oct 09 2017 00:58:51 GMT-0400 (东部夏令时)
+[debug] [2017-10-09T04:58:52.081Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: ./
+[info] +  hosting: Local server: http://localhost:5000
+
