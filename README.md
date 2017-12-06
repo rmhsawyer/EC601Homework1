@@ -153,7 +153,7 @@ https://friendlychat-ae995.firebaseapp.com/
 
 I don't use this app in AWS because to export apk file, I need to join apple developer program which charges $100, so I use my EC601 final project emoji app based on Android as auto test homework.
 
-2. Emoji app test.pdf (auto test based on AWS)
+2.Emoji app test.pdf (auto test based on AWS)
 
 
 ## License
